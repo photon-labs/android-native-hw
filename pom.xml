@@ -5,7 +5,7 @@
     <artifactId>PHR_android-native-hw</artifactId>
     <packaging>apk</packaging>
     <name>PHR_android-native-hw</name>
-    <version>1.0.0</version>
+    <version>1.1.17001-SNAPSHOT</version>
     
      <scm>
         <connection>scm:git:git@github.com:phresco/android-native-hw.git</connection>
